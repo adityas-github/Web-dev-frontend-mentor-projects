@@ -1,2 +1,3 @@
 # Web-dev-frontend-mentor-projects
-This repository contains my solutions to challenges on Frontend Mentor.
+This website is made with help of HTML and CSS.
+I have choose this challenge from Frontend mentor.
